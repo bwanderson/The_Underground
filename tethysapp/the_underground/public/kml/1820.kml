@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="1820-1829.csv Events">
+  <name>1820-1829.csv Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>1820-1829.csv Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Jackson Homestead</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jackson Homestead</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.35543</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-71.194623</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Jackson Homestead</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1820</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>527 Washington Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Newtown</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Underground Railroad Station</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -71.1946233,42.3554305,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Spring Hill</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Spring Hill</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.812369</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-81.507916</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Spring Hill</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1821</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1401 Spring Hill Ln</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Massillon</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -81.5079156,40.8123686,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>John Rankin House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Rankin House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.752996</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-83.844406</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Rankin House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1822</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>6152 Rankin Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Ripley</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -83.84440600000001,38.7529958,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Riley-Bolten House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Riley-Bolten House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.043897</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.121582</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Riley-Bolten House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1825</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>11420 Old Georgetown Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>North Bethesda</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Maryland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Reverend Josiah Henson lived here</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.121582,39.043897,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Abyssinian Meeting House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Abyssinian Meeting House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>43.662144</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-70.248468</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Abyssinian Meeting House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1828</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>75 Newbury Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Portland</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Maine</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Only documented surviving meetinghouse that was the center of African American population in the 19th century, actively involved in the UR</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -70.24846820000001,43.662144,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>/static/the_underground/kml/Home.ico</href></Icon>
+      <scale>0.004</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

@@ -1,0 +1,2666 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="1850-1859.csv Events">
+  <name>1850-1859.csv Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>1850-1859.csv Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Jordan House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jordan House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.559347</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-93.745614</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Jordan House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>2001 Fuller Rd</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>West Des Moines</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Iowa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Used as a stopping point along trail</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -93.7456139,41.5593468,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Lyman and Asenath Hoyt House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lyman and Asenath Hoyt House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.83208</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-85.520661</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Lyman and Asenath Hoyt House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>7147 W SR 250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Madison</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Indiana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -85.520661,38.83208,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Johnson House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Johnson House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.043345</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.18126</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Johnson House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>6306 Germantown Avenue</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Philadelphia</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Pennsylvania</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.18125980000001,40.0433453,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>Dorsey Jones House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dorsey Jones House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.331192</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-72.670876</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Dorsey Jones House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>191 Nonotuck Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Northampton</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Two escaped slaves lived here for a decade</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -72.67087600000001,42.331192,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Harriet Beecher Stowe House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Harriet Beecher Stowe House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>43.912851</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-69.960343</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Harriet Beecher Stowe House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>63 Federal Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Brunswick</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Maine</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Uncle Tom's Cabin was written while she lived here</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -69.960343,43.912851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Asa and Caroline Wing House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Asa and Caroline Wing House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>43.434139</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-76.210159</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Asa and Caroline Wing House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1850</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>3392 New York State Route 69</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Station on the UR, Abolitionist's family house</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -76.2101589,43.4341393,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Orson Ames House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Orson Ames House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>43.45944</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-76.235102</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Orson Ames House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1851</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>3339 Main Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>William "Jerry" Henry was sheltered here, this is the only remaining place in the region where he stayed</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -76.235102,43.45944,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Town of Tabor</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Town of Tabor</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.898333</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-95.671389</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Town of Tabor</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1852</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>NA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Tabor</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Iowa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -95.6713891,40.8983329,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>The Wayside</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>The Wayside</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.459037</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-71.333025</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>The Wayside</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1852</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>455 Lexington Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Concord</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Home of Nathaniel Hawthorne, and other notworthy literary figures</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -71.33302500000001,42.4590371,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>John P. Parker House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John P. Parker House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.749139</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-83.849006</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John P. Parker House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1853</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>300 N Front St</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Ripley</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -83.8490058,38.7491395,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Bethel AME Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bethel AME Church</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.41413</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.330454</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Bethel AME Church</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1853</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>Sheppards Mill Rd</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Greenwich Township</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New Jersey</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Harriet Tubman used</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.33045420000001,39.4141302,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>John Hossack House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Hossack House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.339837</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-88.842081</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Hossack House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1854</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>210 W. Prospect St.</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Ottawa</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Illinois</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>refuge to slaves</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -88.8420812,41.3398374,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>Wilson Bruce Evans House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wilson Bruce Evans House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.28842</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-82.216332</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Wilson Bruce Evans House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1854</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>33 East Vine Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Oberlin</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -82.21633199999999,41.28842,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Rush R Sloane House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rush R Sloane House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.455701</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-82.70529</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Rush R Sloane House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1854</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>403 East Adams Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Sandusky</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -82.70529000000001,41.455701,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>John Brown Cabin</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Brown Cabin</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.497237</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-94.950521</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Brown Cabin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1855</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>NA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Osawatomie</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Kansas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Headquaters for abolishinist activities</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -94.9505207,38.4972372,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Eleutherian College Classroom and Chapel Building</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Eleutherian College Classroom and Chapel Building</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.830967</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-85.517111</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Eleutherian College Classroom and Chapel Building</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1855</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>6927 W Sr 250</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Madison</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Indiana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>first students admitted without regard to gender or race</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -85.517111,38.830967,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>George B. Hitchcock House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>George B. Hitchcock House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.303858</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-95.103792</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>George B. Hitchcock House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1856</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>63788 567th Ln</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lewis</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Iowa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -95.1037925,41.303858,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Daniel Howell Hise House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Daniel Howell Hise House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.891995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-80.842121</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Daniel Howell Hise House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1858</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1100 Franklin Avenue</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Salem</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -80.8421207,40.8919947,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>John Brown House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Brown House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.938772</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.658283</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Brown House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1859</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>225 East King Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Chambersburg</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Pennsylvania</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Where plans made to attack federal arsenal</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.6582827,39.9387717,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00019">
+      <name>Jefferson County Courthouse</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jefferson County Courthouse</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.28899</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.859718</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Jefferson County Courthouse</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1859</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>NA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Charles Town</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>West Virginia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Trial of John Brown after Harpers Ferry raid</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.8597175,39.2889903,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00020">
+      <name>Harpers Ferry</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Harpers Ferry</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.325379</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.738882</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Harpers Ferry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1859</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>NA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Harpers Ferry</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>West Virginia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>John Brown seized and gathered weapons to liberate slaves by extablishing a stronghold</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.7388818,39.3253786,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00021">
+      <name>John Brown's Headquarters</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Brown's Headquarters</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.045755</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-76.641271</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Brown's Headquarters</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1859</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>2406 Chestnut Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Samples Manor</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Maryland</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Where John Brown planned and executed Harpers ferry raid</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -76.64127120000001,39.0457549,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>/static/the_underground/kml/Home.ico</href></Icon>
+      <scale>0.004</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

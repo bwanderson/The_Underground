@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="1840-1849.csv Events">
+  <name>1840-1849.csv Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>1840-1849.csv Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Henderson Lewelling House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Henderson Lewelling House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.851678</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-91.621383</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Henderson Lewelling House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1840</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>401 S Main St</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Salem</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Iowa</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Haven to traveling fugitive slaves</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -91.6213827,40.851678,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Col. William Hubbard House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Col. William Hubbard House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>41.899386</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-80.805333</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Col. William Hubbard House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1840</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1603 Walnut Blvd</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Ashtabula</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -80.8053333,41.8993857,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00002">
+      <name>Oakdale</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Oakdale</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.845346</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.666551</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Oakdale</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1840</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>507 E Hillendale Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Chadds Ford</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Pennsylvania</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>First stop north of the deleware line</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.6665509,39.845346,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00003">
+      <name>White Horse Farm</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>White Horse Farm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.951515</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.465687</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>White Horse Farm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1840</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>535 Gradyville Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Newtown Square</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Pennsylvania</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.4656866,39.951515,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00004">
+      <name>Gerrit Smith Estate</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Gerrit Smith Estate</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.967638</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.687736</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Gerrit Smith Estate</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1840</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>5304 Oxbow Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Peterboro</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.68773640000001,42.9676377,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00005">
+      <name>Bethel AME Church</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bethel AME Church</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.773155</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-86.165865</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Bethel AME Church</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1841</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>414 West Vermont Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Indianapolis</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Indiana</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>congregation that promoted antislavery</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -86.16586510000001,39.7731547,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00006">
+      <name>Hill-Ross Farm</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hill-Ross Farm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.334467</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-72.679253</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Hill-Ross Farm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1841</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>123 Meadow Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Northampton</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Important Abolitionists lived here</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -72.679253,42.3344669,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00007">
+      <name>Bruins Slave Jail</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bruins Slave Jail</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.804507</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.059813</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Bruins Slave Jail</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1844</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1707 Duke St</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Alexandria</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Virginia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Location of Slave Trade Prison/ selling location</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.0598134,38.8045068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00008">
+      <name>Appoquinimink Friends Meeting House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Appoquinimink Friends Meeting House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.457334</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.661318</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Appoquinimink Friends Meeting House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1844</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>NA</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Odessa</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Delaware</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Two Underground "Station Masters" were part of the congregation</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.6613184,39.457334,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00009">
+      <name>Milton House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Milton House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.776422</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-88.936291</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Milton House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1845</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>18 S Janesville St</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Milton</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Wisconsin</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Refuge to slaves</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -88.9362907,42.7764224,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00010">
+      <name>Liberty Farm</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Liberty Farm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.280649</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-71.859678</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Liberty Farm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1847</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>116 Mower Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Worcester</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Home of abolitionists, used as stop for escaping slaves</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -71.859678,42.2806489,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00011">
+      <name>William Ingersoll Bowditch House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>William Ingersoll Bowditch House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.335569</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-71.11675</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>William Ingersoll Bowditch House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1847</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>9 Toxteth St</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Brookline</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Important stop for UR outside of Boston</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -71.1167504,42.3355687,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00012">
+      <name>New Castle County Courthouse</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>New Castle County Courthouse</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.659826</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.563592</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>New Castle County Courthouse</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1848</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>211 Delaware Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>New Castle</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Delaware</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Trial of an abolitionist who broke the Fugitive Slave Act</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.5635915,39.6598258,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00013">
+      <name>Friends Meeting House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Friends Meeting House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.741629</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.554294</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Friends Meeting House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1848</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>4th and West Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Wilmington</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Delaware</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Last stop before freedom for many on the undergroud railroad</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.55429359999999,39.7416293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00014">
+      <name>Edwin W and Charlotte Clarke House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Edwin W and Charlotte Clarke House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>43.456616</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-76.50019</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Edwin W and Charlotte Clarke House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1848</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>80 East Mohawk Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Oswego</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Stop on the UR</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -76.50019,43.4566159,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00015">
+      <name>Samel and Sally Wilson House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Samel and Sally Wilson House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.192072</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-84.544585</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Samel and Sally Wilson House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1849</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1502 Aster Place</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Cincinnati</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Ohio</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>&lt;Null&gt;</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -84.544585,39.192072,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00016">
+      <name>African American National Historic Site</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>African American National Historic Site</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>42.357716</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-71.062384</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>African American National Historic Site</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1849</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>14 Beacon Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Boston</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>Massachusetts</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>An escaped Kentucky slave lived here and this is one of the most documented UR station in Boston</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -71.0623837,42.3577158,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00017">
+      <name>Plymouth Curch of the Pilgrims</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Plymouth Curch of the Pilgrims</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>40.699329</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-73.993723</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Plymouth Curch of the Pilgrims</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1849</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>75 Hicks Street</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Brooklyn</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Center of antislavery sentiment before the war</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.99372270000001,40.6993293,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00018">
+      <name>John Brown Farm and Gravesite</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>John Brown Farm and Gravesite</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>44.250014</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-73.971776</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>John Brown Farm and Gravesite</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1849</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>115 John Brown Road</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lake Placid</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New York</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Location where John brown lived for some time and is buried</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -73.97177600000001,44.250014,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>/static/the_underground/kml/Home.ico</href></Icon>
+      <scale>0.004</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

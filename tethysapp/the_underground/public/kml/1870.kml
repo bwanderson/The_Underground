@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="1870-1879.csv Events">
+  <name>1870-1879.csv Events</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>1870-1879.csv Events</name>
+    <Snippet></Snippet>
+    <Placemark id="ID_00000">
+      <name>Frederick Douglass NHS</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Frederick Douglass NHS</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>38.919202</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-77.032474</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Frederick Douglass NHS</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1877</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>1411 W Street SE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Washington</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>DC</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>Douglass Lived here till his death</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -77.0324737,38.9192021,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="ID_00001">
+      <name>Peter Mott House</name>
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Peter Mott House</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>Latitude</td>
+
+<td>39.868006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Longitude</td>
+
+<td>-75.036436</td>
+
+</tr>
+
+<tr>
+
+<td>Where</td>
+
+<td>Peter Mott House</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Date</td>
+
+<td>1879</td>
+
+</tr>
+
+<tr>
+
+<td>Street Address</td>
+
+<td>Moore and Gloucester Ave</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>City</td>
+
+<td>Lawnside</td>
+
+</tr>
+
+<tr>
+
+<td>State</td>
+
+<td>New Jersey</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>URL</td>
+
+<td><a target="_blank" href="http://www.google.com">www.google.com</a></td>
+
+</tr>
+
+<tr>
+
+<td>Significance</td>
+
+<td>African American Farmer lived here and provided refuge to escaped slaves</td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -75.036436,39.868006,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>/static/the_underground/kml/Home.ico</href></Icon>
+      <scale>0.0040000</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>ff000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
