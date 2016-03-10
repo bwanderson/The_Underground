@@ -1,0 +1,1 @@
+This is the code for an web mapping application that was created using the Tethys platform. It was created for a course in the Brigham Young University Civil and Environmental Engineering Department, GIS Programming. When deployed on a Tethys Instance this app will display a map that shows point, line, and polygon .kml files.
